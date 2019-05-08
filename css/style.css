@@ -24,11 +24,6 @@ a{
     list-style-type: none;
 }
 
-.sizee{
-    width: 20%;
-    height: 20%;
-   
-}
 #heading1{
     background: #363f48;
     width: 100%;
@@ -61,28 +56,29 @@ a{
     margin-left: 0px;
     margin-right:700px;
 }
-.tag li{
+.tag1 li{
     text-decoration: none;
     list-style-type: none;
 }
-/* .tag1{
-    float: left;
-    width: 50%;
+
+.inline{
     padding: 5px;
-}
-.tag::after{
-content: " ";
-clear: both;
-display: table;
-} */
-/* #tag1 .tag{
-    border: 4px inset #fff;
-    position: centre;
-    border-width: 25%;
-    height: 50%;
+    width: 20%;
+    margin: 10px;
+    border: 1px solid #000000;
+    list-style-type: none;
+    text-decoration: none;
     display: inline-block;
-    border-radius: 50px;
-} */
+}
+
+
+.sizee{
+    width: 265px;
+    height: 30%;
+   
+}
+
+
 .review ul{
     /* list-style-type: square; */
     border: 4px inset #363f48;
